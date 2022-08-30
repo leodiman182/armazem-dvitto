@@ -1,0 +1,23 @@
+.str0 {
+  stroke:#FEFEFE;
+  stroke-width:16.93;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-miterlimit:22.9256
+}
+
+.fil0 {
+  fill:none
+}
+
+.fil1 {
+  fill:#FEFEFE
+}
+
+.svg-css {
+  shape-rendering:geometricPrecision;
+  text-rendering:geometricPrecision;
+  image-rendering:optimizeQuality;
+  fill-rule:evenodd;
+  clip-rule:evenodd
+}
