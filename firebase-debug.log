@@ -1,0 +1,21 @@
+[debug] [2022-07-05T13:54:56.362Z] ----------------------------------------------------------------------
+[debug] [2022-07-05T13:54:56.363Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\leona\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-07-05T13:54:56.364Z] CLI Version:   11.2.0
+[debug] [2022-07-05T13:54:56.364Z] Platform:      win32
+[debug] [2022-07-05T13:54:56.364Z] Node Version:  v16.15.1
+[debug] [2022-07-05T13:54:56.364Z] Time:          Tue Jul 05 2022 10:54:56 GMT-0300 (Brasilia Standard Time)
+[debug] [2022-07-05T13:54:56.365Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-05T13:54:56.369Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-05T13:54:56.369Z] > authorizing via signed-in user (aga.tecnologia.firebase@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\leona\Documents\AGA TECH\DVITTOv2
+
